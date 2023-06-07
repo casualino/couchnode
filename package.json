@@ -3,7 +3,7 @@
     "url": "http://www.couchbase.com/issues/browse/JSCBC",
     "email": "support@couchbase.com"
   },
-  "description": "The official Couchbase Node.js Client Library.",
+  "description": "Forked version of official Couchbase Node.js Client Library.",
   "engines": {
     "node": ">=0.8.8"
   },
@@ -18,7 +18,7 @@
   ],
   "main": "./lib/couchbase",
   "license": "Apache-2.0",
-  "name": "couchbase",
+  "name": "@casualino/couchbase",
   "dependencies": {
     "bindings": "^1.5.0",
     "dev-null": "^0.1.1",
